@@ -1,0 +1,10 @@
+@media (768px <= width < 960px) {
+  .email {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .button {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+}
